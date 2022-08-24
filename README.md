@@ -1,4 +1,14 @@
-### Hi there 👋
+### 🌱 Frontend Developer
+I create UX/UI that can communicate with people. I'm looking for colleagues to build a UX/UI system with
+
+### 💬 Tech
+
+- React
+- React Native
+- HTML/CSS/JavaScript
+
+### 🤔 Project
+https://popocreator.github.io/design-system/
 
 <!--
 **popocreater/popocreater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
